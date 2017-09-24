@@ -1,5 +1,5 @@
 # ignore all logs
 *.log
 *.map
-node_modules/*
+**/node_modules/
 
